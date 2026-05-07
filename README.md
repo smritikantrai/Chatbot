@@ -26,4 +26,4 @@ E-commerce electronics review dataset.
    streamlit run app.py
 
 ## Author
-Smriti Rai
+Smriti Kant Rai
